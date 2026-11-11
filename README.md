@@ -2,6 +2,8 @@
 
 A CHIP-8 interpreter written in C++17 with SDL2. It runs classic CHIP-8 games such as Pong, Tetris and Space Invaders.
 
+![Landing running in the emulator](docs/screenshot.png)
+
 ## Features
 
 - All 35 standard CHIP-8 instructions
